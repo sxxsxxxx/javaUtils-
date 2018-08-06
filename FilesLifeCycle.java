@@ -1,4 +1,3 @@
-package com.cdv.lada.common.service;
 
 import java.io.File;
 import java.util.Calendar;
