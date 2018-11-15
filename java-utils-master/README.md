@@ -1,6 +1,7 @@
 ## java-utils
 工作中实用的Java工具类整理
-## com.v4gg.commons
+- config
+    - 多数据源的配置及动态切换数据库的切面配置（还未完善好，配置文件暂上传）
 - database
     - JedisUtil（redis连接操作实现）
 - encrypt
